@@ -1,0 +1,19 @@
+{
+    "name": "notisset/fizz-buzz",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "5.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "FizzBuzz\\": "Application/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Notisset",
+            "email": "notisset@gmail.com"
+        }
+    ]
+}
